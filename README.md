@@ -1,4 +1,4 @@
-## Amazon Instant Video -- Product Recommender System
+## Introduction
 
 Here, we will be attemting to build an intermediate Product Recommendation Engine for Amazon Instant Video products targeted for sellers looking to sell the AIV products based on user ratings and past sales.
 
